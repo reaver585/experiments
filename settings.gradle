@@ -9,5 +9,6 @@
 rootProject.name = 'experiments'
 includeBuild('my-plugin')
 include('proj-0')
-include('proj-1')
-include('proj-2')
+// include('proj-1')
+// include('proj-2')
+enableFeaturePreview "STABLE_CONFIGURATION_CACHE"

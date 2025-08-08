@@ -8,5 +8,5 @@ repositories {
 }
 
 dependencies {
-    implementation(project(':proj-1'))
+//    implementation(project(':proj-1'))
 }
